@@ -58,7 +58,7 @@ void projekt()
 
 int main()
 {
-
+ cout<<"working"<<endl;
     projekt();
     return 0;
 }
